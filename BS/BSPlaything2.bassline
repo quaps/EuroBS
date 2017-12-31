@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tal curprogram="0" version="1.3000000000000000444">
+  <programs>
+    <program path="/Users/sorayafaramarzi/Library/Application Support/ToguAudioLine/TAL-BassLine-101/presets/74L/Fx/Worm Hole.bassline"
+             programname="BSPlaything2" category="74L\Fx" dcolfovalue="0"
+             dcopwmvalue="0" dcopwmmode="1" dcorange="0.62300002574920654297"
+             dcolfovaluesnap="0" pulsevolume="0" sawvolume="0" suboscvolume="0"
+             noisevolume="0" suboscmode="0" whitenoiseenabled="0" filtercutoff="0"
+             filterresonance="1" filterenvelopevalue="1" filtermodulationvalue="0.10400000214576721191"
+             filterkeyboardvalue="0.9560000300407409668" filterenvelopevaluefullrange="1"
+             filtervolumecorrection="0" volume="0.38500002026557922363" masterfinetune="0.5"
+             octavetranspose="0.48800003528594970703" polymode="0" vcamode="0"
+             adsrmode="1" adsrattack="0.30000001192092895508" adsrdecay="0.74800002574920654297"
+             adsrsustain="0" adsrrelease="0" adsrdecklick="0" lforate="1"
+             lfotrigger="1" lfosync="0" lfowaveform="0.60000002384185791016"
+             lfoinverted="0" controlvelocityvolume="0" controlvelocityenvelope="0"
+             controlbenderfilter="0" controlbenderdco="0.21600000560283660889"
+             controlbendermodulation="0.04400000348687171936" portamentointensity="0.44500002264976501465"
+             portamentomode="0.43900001049041748047" portamentolinear="0"
+             fmpulse="0" fmsaw="0" fmsubosc="0" fmnoise="0" fmintensity="0"
+             arpseqsyncenabled="1" arpseqtempo="0.30000001192092895508" arpenabled="0"
+             seqenabled="0" arpmode="0" arpseqsyncmode="0" arpseqlength="0.16800001263618469238"
+             arpseqshuffle="0" arpseqhold="0" mainsyncmode="0" noisefloor="1">
+      <sequencer numberofsteps="16">
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="-1" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+      </sequencer>
+      <tuningtable>
+        <entry tuning="0"/>
+        <entry tuning="1"/>
+        <entry tuning="2"/>
+        <entry tuning="3"/>
+        <entry tuning="4"/>
+        <entry tuning="5"/>
+        <entry tuning="6"/>
+        <entry tuning="7"/>
+        <entry tuning="8"/>
+        <entry tuning="9"/>
+        <entry tuning="10"/>
+        <entry tuning="11"/>
+        <entry tuning="12"/>
+        <entry tuning="13"/>
+        <entry tuning="14"/>
+        <entry tuning="15"/>
+        <entry tuning="16"/>
+        <entry tuning="17"/>
+        <entry tuning="18"/>
+        <entry tuning="19"/>
+        <entry tuning="20"/>
+        <entry tuning="21"/>
+        <entry tuning="22"/>
+        <entry tuning="23"/>
+        <entry tuning="24"/>
+        <entry tuning="25"/>
+        <entry tuning="26"/>
+        <entry tuning="27"/>
+        <entry tuning="28"/>
+        <entry tuning="29"/>
+        <entry tuning="30"/>
+        <entry tuning="31"/>
+        <entry tuning="32"/>
+        <entry tuning="33"/>
+        <entry tuning="34"/>
+        <entry tuning="35"/>
+        <entry tuning="36"/>
+        <entry tuning="37"/>
+        <entry tuning="38"/>
+        <entry tuning="39"/>
+        <entry tuning="40"/>
+        <entry tuning="41"/>
+        <entry tuning="42"/>
+        <entry tuning="43"/>
+        <entry tuning="44"/>
+        <entry tuning="45"/>
+        <entry tuning="46"/>
+        <entry tuning="47"/>
+        <entry tuning="48"/>
+        <entry tuning="49"/>
+        <entry tuning="50"/>
+        <entry tuning="51"/>
+        <entry tuning="52"/>
+        <entry tuning="53"/>
+        <entry tuning="54"/>
+        <entry tuning="55"/>
+        <entry tuning="56"/>
+        <entry tuning="57"/>
+        <entry tuning="58"/>
+        <entry tuning="59"/>
+        <entry tuning="60"/>
+        <entry tuning="61"/>
+        <entry tuning="62"/>
+        <entry tuning="63"/>
+        <entry tuning="64"/>
+        <entry tuning="65"/>
+        <entry tuning="66"/>
+        <entry tuning="67"/>
+        <entry tuning="68"/>
+        <entry tuning="69"/>
+        <entry tuning="70"/>
+        <entry tuning="71"/>
+        <entry tuning="72"/>
+        <entry tuning="73"/>
+        <entry tuning="74"/>
+        <entry tuning="75"/>
+        <entry tuning="76"/>
+        <entry tuning="77"/>
+        <entry tuning="78"/>
+        <entry tuning="79"/>
+        <entry tuning="80"/>
+        <entry tuning="81"/>
+        <entry tuning="82"/>
+        <entry tuning="83"/>
+        <entry tuning="84"/>
+        <entry tuning="85"/>
+        <entry tuning="86"/>
+        <entry tuning="87"/>
+        <entry tuning="88"/>
+        <entry tuning="89"/>
+        <entry tuning="90"/>
+        <entry tuning="91"/>
+        <entry tuning="92"/>
+        <entry tuning="93"/>
+        <entry tuning="94"/>
+        <entry tuning="95"/>
+        <entry tuning="96"/>
+        <entry tuning="97"/>
+        <entry tuning="98"/>
+        <entry tuning="99"/>
+        <entry tuning="100"/>
+        <entry tuning="101"/>
+        <entry tuning="102"/>
+        <entry tuning="103"/>
+        <entry tuning="104"/>
+        <entry tuning="105"/>
+        <entry tuning="106"/>
+        <entry tuning="107"/>
+        <entry tuning="108"/>
+        <entry tuning="109"/>
+        <entry tuning="110"/>
+        <entry tuning="111"/>
+        <entry tuning="112"/>
+        <entry tuning="113"/>
+        <entry tuning="114"/>
+        <entry tuning="115"/>
+        <entry tuning="116"/>
+        <entry tuning="117"/>
+        <entry tuning="118"/>
+        <entry tuning="119"/>
+        <entry tuning="120"/>
+        <entry tuning="121"/>
+        <entry tuning="122"/>
+        <entry tuning="123"/>
+        <entry tuning="124"/>
+        <entry tuning="125"/>
+        <entry tuning="126"/>
+        <entry tuning="127"/>
+      </tuningtable>
+    </program>
+  </programs>
+  <midimap>
+    <map param="38" controllernumber="3"/>
+    <map param="37" controllernumber="4"/>
+    <map param="27" controllernumber="20"/>
+    <map param="28" controllernumber="21"/>
+    <map param="29" controllernumber="22"/>
+    <map param="32" controllernumber="23"/>
+    <map param="36" controllernumber="24"/>
+  </midimap>
+</tal>

@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tal curprogram="0" version="1.3000000000000000444">
+  <programs>
+    <program path="/Users/sorayafaramarzi/Library/Application Support/ToguAudioLine/TAL-BassLine-101/presets/AbstractCats/PanicPC-AC.bassline"
+             programname="BS-Panic" category="AbstractCats" dcolfovalue="0.23759999871253967285"
+             dcopwmvalue="0.64459997415542602539" dcopwmmode="0.33300000429153442383"
+             dcorange="0.40000000596046447754" dcolfovaluesnap="0.891998291015625"
+             pulsevolume="0.78400003910064697266" sawvolume="0.948822021484375"
+             suboscvolume="0.70660400390625" noisevolume="0.080000005662441253662"
+             suboscmode="0" whitenoiseenabled="1" filtercutoff="0.22109998762607574463"
+             filterresonance="0.5852000117301940918" filterenvelopevalue="0.5370000004768371582"
+             filtermodulationvalue="0.66000002622604370117" filterkeyboardvalue="0.16399998962879180908"
+             filterenvelopevaluefullrange="0.1806488037109375" filtervolumecorrection="1"
+             volume="0.4780000150203704834" masterfinetune="0.5262451171875"
+             octavetranspose="0.61846923828125" polymode="0.3502197265625"
+             vcamode="0.99900001287460327148" adsrmode="0.8357086181640625"
+             adsrattack="0" adsrdecay="0.5324999690055847168" adsrsustain="0.21500000357627868652"
+             adsrrelease="0.15250000357627868652" adsrdecklick="1" lforate="1"
+             lfotrigger="1" lfosync="0" lfowaveform="0.80000001192092895508"
+             lfoinverted="0.3650970458984375" controlvelocityvolume="0.19600000977516174316"
+             controlvelocityenvelope="0.53200000524520874023" controlbenderfilter="0"
+             controlbenderdco="0" controlbendermodulation="0.25400000810623168945"
+             portamentointensity="0.4825592041015625" portamentomode="0.5131378173828125"
+             portamentolinear="0" fmpulse="0" fmsaw="0" fmsubosc="0" fmnoise="0"
+             fmintensity="0.70999997854232788086" arpseqsyncenabled="1" arpseqtempo="0.84900003671646118164"
+             arpenabled="1" seqenabled="0" arpmode="0.3333333432674407959"
+             arpseqsyncmode="0.5" arpseqlength="0.16900001466274261475" arpseqshuffle="0"
+             arpseqhold="0.3950653076171875" mainsyncmode="0.145904541015625"
+             noisefloor="1">
+      <sequencer numberofsteps="16">
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="2" pause="0" slide="0" slideadsr="0" velocity="0.69999998399999996401"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.99999997799999995607"
+              length="1"/>
+        <step noteoffset="25" pause="0" slide="0" slideadsr="0" velocity="0.64999998500000000234"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="48" pause="0" slide="0" slideadsr="0" velocity="0.99999997799999995607"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="47" pause="0" slide="0" slideadsr="0" velocity="0.30999999299999997371"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="48" pause="0" slide="0" slideadsr="0" velocity="0.91999997899999996775"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.54999998800000005073"
+              length="1"/>
+        <step noteoffset="48" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.21999999500000000374"
+              length="1"/>
+        <step noteoffset="-48" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="-48" pause="0" slide="0" slideadsr="0" velocity="0.99999997799999995607"
+              length="1"/>
+        <step noteoffset="48" pause="0" slide="0" slideadsr="0" velocity="0.21999999500000000374"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+        <step noteoffset="0" pause="0" slide="0" slideadsr="0" velocity="0.5"
+              length="1"/>
+      </sequencer>
+      <tuningtable>
+        <entry tuning="0"/>
+        <entry tuning="1"/>
+        <entry tuning="2"/>
+        <entry tuning="3"/>
+        <entry tuning="4"/>
+        <entry tuning="5"/>
+        <entry tuning="6"/>
+        <entry tuning="7"/>
+        <entry tuning="8"/>
+        <entry tuning="9"/>
+        <entry tuning="10"/>
+        <entry tuning="11"/>
+        <entry tuning="12"/>
+        <entry tuning="13"/>
+        <entry tuning="14"/>
+        <entry tuning="15"/>
+        <entry tuning="16"/>
+        <entry tuning="17"/>
+        <entry tuning="18"/>
+        <entry tuning="19"/>
+        <entry tuning="20"/>
+        <entry tuning="21"/>
+        <entry tuning="22"/>
+        <entry tuning="23"/>
+        <entry tuning="24"/>
+        <entry tuning="25"/>
+        <entry tuning="26"/>
+        <entry tuning="27"/>
+        <entry tuning="28"/>
+        <entry tuning="29"/>
+        <entry tuning="30"/>
+        <entry tuning="31"/>
+        <entry tuning="32"/>
+        <entry tuning="33"/>
+        <entry tuning="34"/>
+        <entry tuning="35"/>
+        <entry tuning="36"/>
+        <entry tuning="37"/>
+        <entry tuning="38"/>
+        <entry tuning="39"/>
+        <entry tuning="40"/>
+        <entry tuning="41"/>
+        <entry tuning="42"/>
+        <entry tuning="43"/>
+        <entry tuning="44"/>
+        <entry tuning="45"/>
+        <entry tuning="46"/>
+        <entry tuning="47"/>
+        <entry tuning="48"/>
+        <entry tuning="49"/>
+        <entry tuning="50"/>
+        <entry tuning="51"/>
+        <entry tuning="52"/>
+        <entry tuning="53"/>
+        <entry tuning="54"/>
+        <entry tuning="55"/>
+        <entry tuning="56"/>
+        <entry tuning="57"/>
+        <entry tuning="58"/>
+        <entry tuning="59"/>
+        <entry tuning="60"/>
+        <entry tuning="61"/>
+        <entry tuning="62"/>
+        <entry tuning="63"/>
+        <entry tuning="64"/>
+        <entry tuning="65"/>
+        <entry tuning="66"/>
+        <entry tuning="67"/>
+        <entry tuning="68"/>
+        <entry tuning="69"/>
+        <entry tuning="70"/>
+        <entry tuning="71"/>
+        <entry tuning="72"/>
+        <entry tuning="73"/>
+        <entry tuning="74"/>
+        <entry tuning="75"/>
+        <entry tuning="76"/>
+        <entry tuning="77"/>
+        <entry tuning="78"/>
+        <entry tuning="79"/>
+        <entry tuning="80"/>
+        <entry tuning="81"/>
+        <entry tuning="82"/>
+        <entry tuning="83"/>
+        <entry tuning="84"/>
+        <entry tuning="85"/>
+        <entry tuning="86"/>
+        <entry tuning="87"/>
+        <entry tuning="88"/>
+        <entry tuning="89"/>
+        <entry tuning="90"/>
+        <entry tuning="91"/>
+        <entry tuning="92"/>
+        <entry tuning="93"/>
+        <entry tuning="94"/>
+        <entry tuning="95"/>
+        <entry tuning="96"/>
+        <entry tuning="97"/>
+        <entry tuning="98"/>
+        <entry tuning="99"/>
+        <entry tuning="100"/>
+        <entry tuning="101"/>
+        <entry tuning="102"/>
+        <entry tuning="103"/>
+        <entry tuning="104"/>
+        <entry tuning="105"/>
+        <entry tuning="106"/>
+        <entry tuning="107"/>
+        <entry tuning="108"/>
+        <entry tuning="109"/>
+        <entry tuning="110"/>
+        <entry tuning="111"/>
+        <entry tuning="112"/>
+        <entry tuning="113"/>
+        <entry tuning="114"/>
+        <entry tuning="115"/>
+        <entry tuning="116"/>
+        <entry tuning="117"/>
+        <entry tuning="118"/>
+        <entry tuning="119"/>
+        <entry tuning="120"/>
+        <entry tuning="121"/>
+        <entry tuning="122"/>
+        <entry tuning="123"/>
+        <entry tuning="124"/>
+        <entry tuning="125"/>
+        <entry tuning="126"/>
+        <entry tuning="127"/>
+      </tuningtable>
+    </program>
+  </programs>
+  <midimap>
+    <map param="38" controllernumber="3"/>
+    <map param="37" controllernumber="4"/>
+    <map param="27" controllernumber="20"/>
+    <map param="28" controllernumber="21"/>
+    <map param="29" controllernumber="22"/>
+    <map param="32" controllernumber="23"/>
+    <map param="36" controllernumber="24"/>
+  </midimap>
+</tal>
